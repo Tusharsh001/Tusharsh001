@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Tusharsh001
 - 👀 I’m interested in movies,coding,gaming 
 - 🌱 I’m currently learning web development
-- 💞️ I’m looking to collaborate on 
+- 💞️ I’m looking to collaborate 
 - 📫 you can reach me through mail 
 
 <!---
